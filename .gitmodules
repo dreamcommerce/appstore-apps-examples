@@ -1,0 +1,4 @@
+[submodule "appstore-sf-mvc-example"]
+	path = appstore-sf-mvc-example
+	url = git@github.com:dreamcommerce/appstore-sf-mvc-example.git
+	branch = main
